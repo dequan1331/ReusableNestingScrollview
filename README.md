@@ -74,7 +74,3 @@ _handler = [[RNSHandler alloc]initWithScrollView:scrollView
 ## Licenses
 
 All source code is licensed under the [MIT License](https://github.com/dequan1331/ReusableNestingScrollview/blob/master/LICENSE).
-
-## Contact
-
-<img src="./contact.png">
